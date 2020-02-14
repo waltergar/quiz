@@ -13,8 +13,6 @@ A react native overnight application about local fast quiz and simple.
 ## installation
 
 ```
-$ git clone https://github.com/jcsena/react-native-fast-quiz.git
-$ cd react-native-fast-quiz
 $ yarn install
 $ react-native run-ios || run-android
 ```
