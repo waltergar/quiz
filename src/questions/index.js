@@ -213,6 +213,105 @@ export default {
                 o2: 'Federation of Regulation Society',
                 o3: 'Fellow of Royal Society'
             }
+        },
+        {
+            id:21,
+            q: 'When was the Declaration of Independence approved by the Second Continental Congress?',
+            co: 'o1',
+            o: {
+                o1: 'July 2, 1776',
+                o2: 'June 4, 1776',
+                o3: 'May 4, 1776'
+            }
+        },
+        {
+            id:22,
+            q: 'Which of the following is not another name for the eggplant?',
+            co: 'o3',
+            o: {
+                o1: 'Brinjal',
+                o2: 'Guinea Squash',
+                o3: 'Potimarron'
+            }
+        },
+        {
+            id:23,
+            q: 'Bulls are attracted to the color red.',
+            co: 'o2',
+            o: {
+                o1: 'True',
+                o2: 'False'
+            }
+        },
+        {
+            id:24,
+            q: 'Chartreuse is a color between yellow and what?',
+            co: 'o3',
+            o: {
+                o1: 'Red',
+                o2: 'Black',
+                o3: 'Green'
+            }
+        },
+        {
+            id:25,
+            q: 'According to the BBPA, what is the most common pub name in the UK?',
+            co: 'o3',
+            o: {
+                o1: 'Royal Oak',
+                o2: 'White Hart',
+                o3: 'Red Lion'
+            }
+        },
+        {
+            id:26,
+            q: 'Rolex is a company that specializes in what type of product?',
+            co: 'o2',
+            o: {
+                o1: 'Cars',
+                o2: 'Watches',
+                o3: 'Computers'
+            }
+        },
+        {
+            id:27,
+            q: 'The Lego Group was founded in 1932.',
+            co: 'o1',
+            o: {
+                o1: 'True',
+                o2: 'False',
+            }
+        },
+        {
+            id:28,
+            q: 'Where does water from Poland Spring water bottles come from?',
+            co: 'o1',
+            o: {
+                o1: 'Maine, United States',
+                o2: 'Hesse, Germany',
+                o3: 'Masovia, Poland'
+            }
+        },
+        {
+            id:29,
+            q: 'What direction does the Statue of Liberty face?',
+            co: 'o2',
+            o: {
+                o1: 'Southwest',
+                o2: 'Southeast',
+                o3: 'Northwest',
+                o4: 'Northeast'
+            }
+        },
+        {
+            id:30,
+            q: 'Originally another word for poppy, coquelicot is a shade of what?',
+            co: 'o1',
+            o: {
+                o1: 'Red',
+                o2: 'Green',
+                o3: 'Blue'
+            }
         }
     ]
 
